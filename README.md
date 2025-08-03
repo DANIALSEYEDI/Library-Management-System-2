@@ -9,12 +9,12 @@ Welcome to the **Library Management System**, a Java-based console application d
 
 ## 🚀 Features
 
-✅ Object-Oriented Architecture (Inheritance, Interface usage)  
-✅ Role-based Access Control (Admin, Students, Professors, etc.)  
-✅ Multiple Resource Types: Books, Theses, Rare Books, and Sale Items  
-✅ Command-Based System for managing libraries, users, resources  
-✅ Persian Input Support ✍️  
-✅ Manual & Automated Input Validation
+ Object-Oriented Architecture (Inheritance, Interface usage)  
+ Role-based Access Control (Admin, Students, Professors, etc.)  
+ Multiple Resource Types: Books, Theses, Rare Books, and Sale Items  
+ Command-Based System for managing libraries, users, resources  
+ Persian Input Support  
+ Manual & Automated Input Validation
 
 ---
 
