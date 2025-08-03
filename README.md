@@ -3,7 +3,7 @@
 
 Welcome to the **Library Management System**, a Java-based console application developed as part of the *Advanced Programming* course – Exercise 3.
 
-> 🧠 Focus: **Object-Oriented Design**, **Inheritance**, **Interfaces**, and **Practical Command-Line Processing**
+>  Focus: **Object-Oriented Design**, **Inheritance**, **Interfaces**, and **Practical Command-Line Processing**
 
 ---
 
