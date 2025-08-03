@@ -86,18 +86,13 @@ borrow#14010011234|PassWd|L001|B001|2025-04-10|10:00
 
 ## 📦 Output Messages
 
-- `success` ✅ – Operation completed
-- `duplicate-id` 🔁 – ID already exists
-- `not-found` ❓ – Item or user not found
-- `permission-denied` 🔐 – Insufficient privileges
-- `invalid-pass` 🔑 – Incorrect password
-- `not-allowed` 🚫 – Rule violation (e.g. overdue, duplicate borrow)
+- `success`  – Operation completed
+- `duplicate-id`  – ID already exists
+- `not-found`  – Item or user not found
+- `permission-denied`  – Insufficient privileges
+- `invalid-pass`  – Incorrect password
+- `not-allowed`  – Rule violation (e.g. overdue, duplicate borrow)
 
 ---
 
-## 📮 Contact
-
-If you have questions, suggestions, or encounter bugs, please reach out via GitHub issues or contact the course instructors.
-
----
 **© 2025 - Advanced Programming – Dr. Kalbasi & Dr. Zeynali**
