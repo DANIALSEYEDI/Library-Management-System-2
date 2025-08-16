@@ -93,6 +93,7 @@ borrow#14010011234|PassWd|L001|B001|2025-04-10|10:00
 - `invalid-pass`  – Incorrect password
 - `not-allowed`  – Rule violation (e.g. overdue, duplicate borrow)
 
+
 ---
 
 **© 2025 - Advanced Programming – Dr. Kalbasi & Dr. Zeynali**
